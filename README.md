@@ -20,3 +20,4 @@ This project focuses on analyzing data and creating an interactive Power BI dash
 ## 🔍 Insights
 - Identified trends and patterns in the dataset
 - Provided data-driven insights for decision making
+
